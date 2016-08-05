@@ -1,0 +1,91 @@
+header h1 {
+	font-size: 30px;
+	padding-top:30px;
+}
+nav ul{
+	list-style: none;
+}
+
+nav ul li{
+	display: inline-block;
+	padding:20px 45px;
+}
+textarea{
+	width: 70%;
+	padding-left: 10%;
+	padding-top: 8px;
+	background-size: 5% 20%;
+	background-position:16px 5px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+footer{
+	height: 70px;
+	background-color: #192951;
+	color:#FFFFFF;
+}
+footer p{
+	padding: 30px 0px 0px 50px;
+}
+
+
+
+.contacto{
+	background:url(../img/shoes_1.jpg) no-repeat;
+	height: 400px;
+	background-position: right;
+	padding-top: 60px;
+	padding-left: 125px;
+	position:relative;
+}
+.formulario{
+	font-size:26px;
+}
+.nombre{
+	background: url(../img/name.svg) no-repeat scroll 0 0 transparent;
+	width:50%;
+	height: 35px;
+	background-size:10% 70%;
+	background-position:2px;
+	border: 1px solid #D8D8D8;	
+	padding-left: 5%;
+	margin-bottom: 15px;
+}
+.email{
+	background: url(../img/email.svg) no-repeat scroll 0 0 transparent;
+	width:50%;
+	height: 35px;
+	background-size:10% 70%;
+	background-position:2px;
+	border: 1px solid #D8D8D8;	
+	padding-left: 5%;
+	margin-bottom: 15px;
+}
+.mensaje{
+	background: url(../img/comment.svg) no-repeat scroll 0 0 transparent;
+	width:50%;
+	height: 90px;
+	background-size:6% 59%;
+	background-position:8px -10px;
+	border: 1px solid #D8D8D8;	
+	padding-left: 5%;
+	margin-bottom: 15px;
+}
+.btn-contacto{
+ 	border-radius: 4px;
+ 	color: #ffffff;
+ 	font-size: 22px;
+	background: #192951;
+	padding: 10px 192px 10px 192px;
+	text-decoration: none;
+	position: absolute;
+	bottom: 84px;
+	left: 9.5%;
+}
+.btn-contacto:hover {
+	background: #2d4680;
+	text-decoration: none;
+}

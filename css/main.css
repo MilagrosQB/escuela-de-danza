@@ -1,0 +1,125 @@
+.main{
+	background:url(../img/dance_1.jpg) no-repeat;
+	height: 350px;
+	background-size: cover;
+	position:relative;
+}
+
+.col-4 h1{
+	color: #C3C6C5;
+	font-size: 70px;
+	text-align: center;
+	margin-top: 50px;
+}
+
+.col-4 h3 {
+	color: #C3C6C5;
+	text-align: left;
+	margin: 40px 115px 0px 95px;
+}
+
+.btn-inscribete {
+	border-radius: 5px;
+	color: #ffffff;
+	font-size: 20px;
+	background: #020E1D;
+	padding: 12px 40px 12px 40px;
+	text-decoration: none;
+	position: absolute;
+	top: 80%;
+	left:7%;
+}
+
+.btn-inscribete:hover {
+ 	background: #2d4680;
+ 	text-decoration: none;
+}
+
+.oferta {
+	background:url(../img/textura_2.jpg);
+	height: 170px;
+	font-size:20px;
+	padding:5%;
+	position: relative;
+}
+
+.oferta img{
+	position: absolute;
+	width: 130px;
+	height: 135px;
+	top:25%;
+	left: 45%;
+}
+
+.btn-oferta{
+ 	border-radius: 5px;
+ 	color: #ffffff;
+ 	font-size: 20px;
+	background: #192951;
+	padding: 12px 80px 12px 80px;
+	text-decoration: none;
+	position:absolute;
+	top:63%;
+	left: 39%;
+}
+
+.btn-oferta:hover {
+	background: #2d4680;
+	text-decoration: none;
+}
+
+.instructores{
+	height: 280px;
+	border: 1px solid black;
+	position:relative;
+}
+
+.instructor-1{
+	background: url(../img/instructor_4.jpg) no-repeat;
+	background-size: cover;
+	height: 280px;
+}
+
+.instructor-2{
+	background: url(../img/profesor_9.jpg) no-repeat;
+	background-size: cover;
+	height: 280px;
+}
+
+.btn-instructores{
+ 	border-radius: 4px;
+ 	color: #ffffff;
+ 	font-size: 22px;
+	background: #192951;
+	padding: 12px 135px 12px 135px;
+	text-decoration: none;
+	position: absolute;
+	bottom: -2px;
+	left: 33%;
+}
+
+.btn-instructores:hover {
+	background: #2d4680;
+	text-decoration: none;
+}
+
+.frase{
+	background:url(../img/textura_2.jpg);
+	height: 150px;
+	font-size:42px;
+	font-style:italic;
+	text-align: center;
+	padding:120px 178px 53px 178px;
+}
+
+.visitanos{
+	height: 350px;
+	background-color: #192951;
+	color:#FFFFFF;
+	padding:75px 0px 0px 45px;
+	position:relative;
+}
+
+.visitanos p{
+	width: 80%;
+}
